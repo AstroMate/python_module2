@@ -1,1 +1,1 @@
-# python_module2
+Module 2 for Python class
